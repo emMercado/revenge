@@ -3,7 +3,7 @@ Description: This project is intended for those who are interested in learning H
 Level: beginners. 
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-) <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/harshita2216/revenge?style=flat-square">
+[![All Contributors](https://img.shields.io/badge/all_contributors-0-orange.svg?style=flat-square)](#contributors-) <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/harshita2216/revenge?style=flat-square">
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/truedamagee/revenge?style=social"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/revenge/revengerevenge?style=social">
