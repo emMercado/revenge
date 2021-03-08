@@ -1,4 +1,4 @@
-# Project name: Google Clone
+# Project name: Revenge!
 Description: This project is intended for those who are interested in learning HTML, CSS and Git. 
 Level: beginners. 
 
